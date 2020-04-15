@@ -1,0 +1,21 @@
+{
+  "name": "2020-04-15-Conways-Game-of-Life",
+  "version": "1.0.0",
+  "description": "# In honour of John Conway",
+  "main": "game-logic.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "test-logic": "node game-logic.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apaul14/2020-04-15-Conways-Game-of-Life.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/apaul14/2020-04-15-Conways-Game-of-Life/issues"
+  },
+  "homepage": "https://github.com/apaul14/2020-04-15-Conways-Game-of-Life#readme"
+}
